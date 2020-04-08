@@ -36,6 +36,6 @@
     <data-source>
         <name>java:global/jdbc/JavaEECafe</name>
         <class-name>org.postgresql.ds.PGPoolingDataSource</class-name>
-        <url>jdbc:postgresql://jakartaee-cafe-db-reza.postgres.database.azure.com:5432/postgres?user=postgres@jakartaee-cafe-db-reza&amp;password=Secret123!</url>
+        <url>jdbc:postgresql://jakartaee-cafe-db-javier.postgres.database.azure.com:5432/postgres?user=postgres@jakartaee-cafe-db-javier&amp;password=Secret123!</url>
     </data-source>
 </web-app>
